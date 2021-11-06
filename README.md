@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
 
 Here is the solution site url-
-http://127.0.0.1:5500/
+https://drougnov.github.io/huddle-landing-page-with-single-introductory-section-master/
 
 ## Built with
 
